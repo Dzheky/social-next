@@ -1,0 +1,10 @@
+.content {
+    grid-area: content;
+    background: gray;
+}
+.content img {
+    width: 100%;
+}
+.item {
+    color: brown;
+}
